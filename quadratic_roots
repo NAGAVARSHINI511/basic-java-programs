@@ -1,3 +1,4 @@
+//quaratic_roots
 import java.util.Scanner; //scanner is class whisch contains input functions
 
 public class qudratic_roots {
