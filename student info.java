@@ -1,4 +1,4 @@
-//student details
+//Student details
 import java.util.Scanner;
 
 public class Student {
