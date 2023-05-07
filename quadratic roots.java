@@ -1,5 +1,6 @@
 //java program to compute quaratic roots
-import java.util.Scanner; //scanner is class whisch contains input functions
+//scanner is class whisch contains input functions
+import java.util.Scanner; 
 
 public class qudratic_roots {
 
