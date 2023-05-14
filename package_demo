@@ -1,6 +1,4 @@
-program 6
-
-currencypackage
+//currencypackage
 
 package currencyconversion;
 
