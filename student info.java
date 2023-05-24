@@ -15,7 +15,7 @@ public class Student {
     }
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
+        //TODO Auto-generated method stub
         String u;
         String n;
         String b;
